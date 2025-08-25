@@ -62,9 +62,13 @@ This production-grade agent, built with n8n, offers a comprehensive solution for
     Built-In Resilience: Features such as retry logic, circuit breakers, self-healing tests, and DLQ routing are integrated to enhance reliability.
     Observability: Metrics including latency, fallback rates, and confidence scores are exported to Prometheus dashboards for real-time monitoring.
 
-⚠️ License
+📄 License
+This project is All Rights Reserved with no license for use, modification, or distribution.
+✅ Permitted: Viewing the code for learning and reference purposes
+❌ Restricted: Any use, copying, modification, distribution, or commercial exploitation
+© 2025 Jacob Joshy — All rights reserved.
 
-This project is licensed under the CC BY-NC-ND 4.0 license. You are free to view and reference the content with proper attribution. However, commercial use, redistribution, or modification of the workflows is not permitted.
+Note: This code is provided for educational viewing only. No permission is granted to use, copy, modify, merge, publish, distribute, sublicense, or sell any part of this software without explicit written permission from the author.
 📬 Contact
 
 If you are interested in accessing the workflows, require licensing for clinical AI projects, or wish to collaborate, please feel free to reach out:
